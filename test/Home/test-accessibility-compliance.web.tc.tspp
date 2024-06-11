@@ -1,0 +1,11 @@
+>>testDataType: undefined
+>>summary: Check the accessibility compliance of the website as per WCAG 2.1 guidelines
+>>tags: 
+>>feature: Home
+
+
+^^detailed_steps
+Load the homepage of 'Evershop' --> Verify that the website's features and contents are accessible, including for users with disabilities as per WCAG 2.1 guidelines
+^^
+
+

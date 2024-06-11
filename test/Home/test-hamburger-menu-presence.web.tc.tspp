@@ -1,0 +1,12 @@
+>>testDataType: undefined
+>>summary: Check for the presence of a hamburger menu on mobile viewport sizes
+>>tags: 
+>>feature: Home
+
+
+^^detailed_steps
+Open the Evershop homepage on a mobile device or simulate a small screen on a desktop browser --> Verify that the navigation menu is represented by a hamburger icon
+Click on the hamburger menu icon --> Verify that the main categories are accessible within the menu
+^^
+
+

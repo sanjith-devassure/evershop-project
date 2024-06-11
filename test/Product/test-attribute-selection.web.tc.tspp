@@ -1,0 +1,13 @@
+>>testDataType: undefined
+>>summary: Verify attribute selection options work correctly
+>>tags: 
+>>feature: Product
+
+
+^^detailed_steps
+Navigate to the product page URL
+Select a size from the available size options --> Verify the selected size is highlighted
+Select a color from the available color options --> Verify the selected color is highlighted
+^^
+
+

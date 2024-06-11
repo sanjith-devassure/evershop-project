@@ -1,0 +1,16 @@
+>>testDataType: undefined
+>>summary: Check the functionality of the search bar with predictive text and suggested results
+>>tags: Search, Predictive_Text, Auto-Complete, Suggested_Results
+>>feature: Home
+>>feature: Home
+>>priority: 0
+
+
+^^detailed_steps
+Navigate to the homepage of 'Evershop' and click on the search bar
+Start typing a product name into the search bar --> Verify that predictive text suggestions appear as the user types
+ --> Verify that the auto-complete functionality is working correctly
+ --> Verify that the suggested results include images, price information, and a short description
+^^
+
+

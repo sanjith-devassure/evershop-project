@@ -1,0 +1,12 @@
+>>testDataType: undefined
+>>summary: Verify the functionality of error messaging during cart operations
+>>tags: 
+>>feature: cart
+
+
+^^detailed_steps
+Enter an invalid promotion code into the promotion code field
+Click on the 'Apply' button --> Verify that an appropriate error message is displayed
+^^
+
+

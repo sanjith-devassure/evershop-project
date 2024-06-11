@@ -1,0 +1,14 @@
+>>testDataType: undefined
+>>summary: Ensure the 'SIGN IN' button behaves as expected.
+>>tags: 
+>>feature: Login
+
+
+^^detailed_steps
+Navigate to the login page URL. --> Verify that the 'SIGN IN' button is below the password field.
+ --> Verify that the 'SIGN IN' button has a contrasting color to the form background.
+ --> Verify that the 'SIGN IN' button is initially disabled.
+Enter valid email and password. --> Verify that the 'SIGN IN' button is enabled after entering valid data.
+^^
+
+

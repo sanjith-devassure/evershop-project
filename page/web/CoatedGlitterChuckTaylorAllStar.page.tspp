@@ -1,0 +1,8 @@
+>>summary: 
+>>recorderName: CoatedGlitterChuckTaylorAllStar
+
+==button;CSS;[type='button'];Button;[CSS:button^^CSS:.button^^CSS:.primary^^CSS:.outline];[button];[CoatedGlitterChuckTaylorAllStar];==
+==Qty;CSS;[placeholder='Qty'];Input;[CSS:[name='qty']^^CSS:[type='text']^^CSS:[placeholder]^^CSS:div:nth-child(1) > div > input];[Qty];[CoatedGlitterChuckTaylorAllStar];==
+==M;XPATH;//a[text()="M"];Link;[CSS:div:nth-child(1) > ul:nth-child(4) > li:nth-child(1) > a];[M];[CoatedGlitterChuckTaylorAllStar];==
+==Purple;XPATH;//a[text()="Purple"];Link;[CSS:div:nth-child(2) > ul:nth-child(4) > li:nth-child(1) > a];[Purple];[CoatedGlitterChuckTaylorAllStar];==
+==ADDTOCART;XPATH;//span[text()="ADD TO CART"];;[CSS:.button span^^CSS:button > span];[ADDTOCART];[CoatedGlitterChuckTaylorAllStar];==

@@ -1,0 +1,13 @@
+>>testDataType: undefined
+>>summary: Check the call-to-action functionality within the product highlights section
+>>tags: 
+>>feature: Home
+
+
+^^detailed_steps
+Navigate to the 'Evershop' homepage
+Locate a product highlights section
+Click on the call-to-action button within the product highlights section --> Verify that the user is redirected to a product listing page filtered to show only the items from the selected collection
+^^
+
+

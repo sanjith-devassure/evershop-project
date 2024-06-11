@@ -1,0 +1,15 @@
+>>testDataType: undefined
+>>summary: Verify that the main categories and sub-categories in the navigation menu are functional
+>>tags: Navigation, Category_Accessibility, Menu_Interaction
+>>feature: Home
+>>feature: Home
+>>priority: 1
+
+
+^^detailed_steps
+Load the homepage of 'Evershop' on a desktop browser
+Hover over a main category to display the sub-categories --> Verify that the sub-categories are displayed and clickable
+Click on a sub-category --> Verify that the page navigates to the selected sub-category's product listing
+^^
+
+

@@ -1,0 +1,12 @@
+>>testDataType: undefined
+>>summary: Verify product image quality and interactivity
+>>tags: 
+>>feature: Product
+
+
+^^detailed_steps
+Navigate to the product page URL --> Verify a high-resolution product image is displayed
+Click on the product image --> Verify the image can be viewed in a larger format when clicked
+^^
+
+

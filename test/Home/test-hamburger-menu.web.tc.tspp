@@ -1,0 +1,12 @@
+>>testDataType: undefined
+>>summary: Verify the hamburger menu functionality on smaller screens
+>>tags: 
+>>feature: Home
+
+
+^^detailed_steps
+Load the homepage of 'Evershop' on a smaller screen or resize the browser window to a mobile view
+Click on the hamburger menu icon --> Verify that all major categories and user functionalities are accessible through the hamburger menu
+^^
+
+

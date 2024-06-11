@@ -1,0 +1,12 @@
+>>testDataType: undefined
+>>summary: Ensure the 'Your cart is empty!' message and 'Continue Shopping' link functionality
+>>tags: 
+>>feature: cart
+
+
+^^detailed_steps
+Navigate to the Shopping Cart page --> Verify that the message 'Your cart is empty!' is displayed
+Click on the 'Continue Shopping' link --> Verify redirection to the product pages
+^^
+
+

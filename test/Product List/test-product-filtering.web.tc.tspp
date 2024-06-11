@@ -1,0 +1,14 @@
+>>testDataType: undefined
+>>summary: Verify that product filtering updates the product listing immediately without page reloads
+>>tags: 
+>>feature: Product List
+
+
+^^detailed_steps
+Navigate to the product display page
+Select a price range filter --> Verify that the product listing updates to reflect the selected price range immediately without page reloads
+Select a color filter --> Verify that the product listing updates to show only the products of the selected color immediately without page reloads
+Select multiple filters at once --> Verify that the product listing updates to reflect all selected filters immediately without page reloads
+^^
+
+

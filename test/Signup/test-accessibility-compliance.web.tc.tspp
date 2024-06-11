@@ -1,0 +1,12 @@
+>>testDataType: undefined
+>>summary: Test accessibility compliance for form fields
+>>tags: 
+>>feature: Signup
+
+
+^^detailed_steps
+Load the signup page --> Verify that form fields include 'label' tags associated with the input fields
+ --> Verify that error messages and instructions have ARIA roles where applicable
+^^
+
+

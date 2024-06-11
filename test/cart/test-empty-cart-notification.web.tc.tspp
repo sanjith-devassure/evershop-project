@@ -1,0 +1,13 @@
+>>testDataType: undefined
+>>summary: Check empty cart notification and redirection to product pages
+>>tags: 
+>>feature: cart
+
+
+^^detailed_steps
+Navigate to the shopping cart page --> Verify that the message 'Your cart is empty!' is displayed
+ --> Verify that the 'Continue Shopping' button is displayed
+Click on the 'Continue Shopping' button --> Verify that the user is redirected to the product pages
+^^
+
+

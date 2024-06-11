@@ -1,0 +1,12 @@
+>>testDataType: undefined
+>>summary: Check the data security during the checkout process
+>>tags: 
+>>feature: cart
+
+
+^^detailed_steps
+Navigate to the checkout page
+Fill in contact information and shipping address --> Verify that the data transmission is secured (e.g., by checking for SSL encryption)
+^^
+
+

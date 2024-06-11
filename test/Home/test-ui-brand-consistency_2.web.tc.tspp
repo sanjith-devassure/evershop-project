@@ -1,0 +1,14 @@
+>>testDataType: undefined
+>>summary: Verify that the User Interface reflects the Evershop brand through its color palette and imagery.
+>>tags: UI, Branding, Consistency, Color_Palette, Imagery
+>>feature: Home
+>>feature: Home
+>>priority: 1
+
+
+^^detailed_steps
+Load the homepage of 'Evershop' --> Verify that the color palette is consistent with the 'Evershop' brand guidelines
+ --> Verify that the imagery used on the homepage reinforces 'Evershop' brand recognition
+^^
+
+

@@ -1,0 +1,16 @@
+>>testDataType: undefined
+>>summary: Verify that the layout guides the user's journey by prioritizing information and actions
+>>tags: Layout, User_Journey, Information_Priority, UI
+>>feature: Home
+>>feature: Home
+>>priority: 1
+
+
+^^detailed_steps
+Load the homepage of 'Evershop' --> Verify that promotional content is displayed prominently at the top of the page
+ --> Verify that featured products are immediately visible without scrolling
+ --> Verify that primary actions like 'Add to Cart' buttons are prominently displayed next to each product
+ --> Verify that navigation to different sections of the site via the main menu is intuitive and easy
+^^
+
+

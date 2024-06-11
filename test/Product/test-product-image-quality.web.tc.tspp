@@ -1,0 +1,12 @@
+>>testDataType: undefined
+>>summary: Check the functionality of the product image display
+>>tags: 
+>>feature: Product
+
+
+^^detailed_steps
+Navigate to the product display page --> Verify that a high-resolution image of the product is displayed
+Click on the product image --> Verify that the image can be viewed in a larger format when clicked
+^^
+
+

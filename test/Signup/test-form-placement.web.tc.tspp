@@ -1,0 +1,11 @@
+>>testDataType: undefined
+>>summary: Verify that the signup form is the central element on page load
+>>tags: 
+>>feature: Signup
+
+
+^^detailed_steps
+Load the signup page --> Verify that the signup form is centrally located on the page
+^^
+
+

@@ -1,0 +1,15 @@
+>>testDataType: undefined
+>>summary: Verify that the User Account Access on the Evershop site allows for social media login and directs the user to the appropriate social media authentication page.
+>>tags: UI, User_Account, Social_Media_Login, Authentication
+>>feature: Home
+>>feature: Home
+>>priority: 2
+
+
+^^detailed_steps
+Navigate to the 'Evershop' login page
+Click on the 'Sign in with social media' option --> Verify that a list of social media platforms is displayed
+Choose a social media platform to sign in with --> Verify that the user is directed to the social media platform's authentication page
+^^
+
+

@@ -1,0 +1,16 @@
+>>testDataType: undefined
+>>summary: Check the Shipping Method validation during Checkout
+>>tags: 
+>>feature: cart
+
+
+^^detailed_steps
+Navigate to the Shopping Cart page
+Click on the 'Checkout' button
+Fill in the shipping address with an unsupported location
+Attempt to proceed with the checkout --> Verify that an error message 'Sorry, there is no available method for your address' is displayed
+Correct the shipping address to a supported location
+Attempt to proceed with the checkout again --> Verify that no error message is displayed and the user can proceed
+^^
+
+

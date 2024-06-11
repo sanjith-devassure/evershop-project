@@ -1,0 +1,13 @@
+>>testDataType: undefined
+>>summary: Verify voice input functionality for search queries
+>>tags: 
+>>feature: Search
+
+
+^^detailed_steps
+Click on the voice input icon in the search bar
+Speak a product name into the microphone --> Verify if the spoken product name appears in the search bar
+ --> Verify if a search is initiated after the voice input
+^^
+
+

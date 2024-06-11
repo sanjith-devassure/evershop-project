@@ -1,0 +1,12 @@
+>>testDataType: undefined
+>>summary: Test search bar persistent accessibility when user scrolls down the page
+>>tags: 
+>>feature: Search
+
+
+^^detailed_steps
+Load the primary page of the website
+Scroll down the page --> Check if the search bar remains accessible and visible during the scroll
+^^
+
+

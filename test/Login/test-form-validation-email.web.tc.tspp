@@ -1,0 +1,15 @@
+>>testDataType: undefined
+>>summary: Check the form validation and error message display for the email field.
+>>tags: 
+>>feature: Login
+
+
+^^detailed_steps
+Navigate to the login page URL.
+Enter an invalid email format in the email field.
+Attempt to sign in. --> Verify that an error message is displayed for invalid email format.
+Enter a valid but non-existent email in the email field.
+Attempt to sign in. --> Verify that an error message is displayed stating the email does not exist.
+^^
+
+

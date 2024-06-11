@@ -1,0 +1,14 @@
+>>testDataType: undefined
+>>summary: Verify social media sign-in functionality on the User Account Access page.
+>>tags: 
+>>feature: Home
+
+
+^^detailed_steps
+Navigate to the User Account Access page
+Click on the 'Sign in with social media' option --> Verify that a list of social media platforms is displayed
+Choose a social media platform to sign in with
+Authenticate using the chosen social media platform credentials --> Verify that the user is redirected back to the User Account page with a logged-in status
+^^
+
+

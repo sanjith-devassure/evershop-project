@@ -1,0 +1,14 @@
+>>testDataType: undefined
+>>summary: Ensure that the shopping cart functionality is intuitive and provides a preview of the cart's contents with options to remove items or adjust quantities.
+>>tags: Shopping_Cart, Preview_Functionality, User_Interface
+>>feature: Home
+>>feature: Home
+>>priority: 1
+
+
+^^detailed_steps
+Navigate to a product on the 'Evershop' homepage and add it to the shopping cart. --> Verify that the shopping cart icon updates to reflect the number of items in the cart.
+Hover over the shopping cart icon. --> Verify that a preview of the cart's contents is displayed, showing product details, remove item option, and quantity adjustment feature.
+^^
+
+

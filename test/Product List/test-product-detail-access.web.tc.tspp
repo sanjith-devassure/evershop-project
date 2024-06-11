@@ -1,0 +1,13 @@
+>>testDataType: undefined
+>>summary: Verify that clicking on product image or name directs to the detailed product page with extensive information
+>>tags: 
+>>feature: Product List
+
+
+^^detailed_steps
+Navigate to the product display page
+Click on the product image or product name of any product tile --> Verify that the user is directed to a detailed product page
+ --> Verify that the detailed page includes extensive product information such as descriptions, specifications, and additional images
+^^
+
+

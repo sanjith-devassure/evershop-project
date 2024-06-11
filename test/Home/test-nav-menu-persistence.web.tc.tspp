@@ -1,0 +1,15 @@
+>>testDataType: undefined
+>>summary: Verify that the navigation menu remains ever-present and functional at the top of the viewport on desktop and smaller screens.
+>>tags: Navigation_Menu, Desktop_View, Mobile_View, User_Interface
+>>feature: Home
+>>feature: Home
+>>priority: 1
+
+
+^^detailed_steps
+Load the homepage of 'Evershop' on a desktop browser. --> Verify that the navigation menu is visible and remains at the top of the viewport as the user scrolls down the page.
+Resize the browser window to simulate a tablet and mobile screen size. --> Verify that the navigation menu adapts to a hamburger menu icon on smaller screen sizes.
+Click on the hamburger menu icon. --> Verify that the main categories and user functionalities are accessible through the hamburger menu.
+^^
+
+

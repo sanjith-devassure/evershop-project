@@ -1,0 +1,12 @@
+>>testDataType: undefined
+>>summary: Verify the functionality of the hamburger menu on mobile screens
+>>tags: 
+>>feature: Home
+
+
+^^detailed_steps
+Load the homepage of 'Evershop' on a mobile device or screen simulator --> Verify that the navigation menu is presented as a hamburger menu
+Click on the hamburger menu --> Verify that the main categories and functionalities are accessible through the hamburger menu
+^^
+
+

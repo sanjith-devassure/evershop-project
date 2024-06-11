@@ -1,0 +1,16 @@
+>>testDataType: undefined
+>>summary: Verify the product highlights section includes high-quality imagery, concise description, and a call-to-action button
+>>tags: Product_Highlights, Imagery, Description, Call-to-Action, Navigation
+>>feature: Home
+>>feature: Home
+>>priority: 0
+
+
+^^detailed_steps
+Navigate to the homepage of 'Evershop' and scroll to the product highlights section --> Verify that the product highlights section utilizes high-quality imagery relevant to the collection
+ --> Verify that each section includes a concise description outlining the collection's features and benefits
+ --> Verify that each section contains a clearly labeled call-to-action button
+Click on the call-to-action button --> Verify that clicking the call-to-action button redirects the user to a product listing page filtered to show only items from the selected collection
+^^
+
+

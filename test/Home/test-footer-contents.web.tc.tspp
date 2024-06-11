@@ -1,0 +1,13 @@
+>>testDataType: undefined
+>>summary: Confirm that the footer contains all necessary links and functionalities as specified.
+>>tags: 
+>>feature: Home
+
+
+^^detailed_steps
+Scroll to the footer of the homepage. --> Verify that links to 'About Us', 'FAQ', 'Contact', 'Privacy Policy', and 'Terms of Service' are present and clickable.
+ --> Verify that the newsletter signup option is present.
+Click on the social media follow links. --> Verify that the links redirect to the appropriate 'Evershop' social media platforms.
+^^
+
+

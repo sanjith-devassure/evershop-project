@@ -1,0 +1,13 @@
+>>testDataType: undefined
+>>summary: Verify the performance of asynchronous data fetching for filters and sorting
+>>tags: 
+>>feature: Product List
+
+
+^^detailed_steps
+Navigate to the product display page
+Select a filter option from the sidebar or horizontal bar --> Verify that the product listing updates immediately to reflect the filter selection with minimal response time
+Select a sorting option from the drop-down menu --> Verify that the product listing reorders immediately according to the selected sort option with minimal response time
+^^
+
+

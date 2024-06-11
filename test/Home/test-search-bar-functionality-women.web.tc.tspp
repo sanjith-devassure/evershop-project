@@ -1,0 +1,16 @@
+>>testDataType: undefined
+>>summary: Verify the functionality of the search bar within the Women category page
+>>tags: Search_Bar, Predictive_Text, Auto-Complete, Women_Category
+>>feature: Home
+>>feature: Home
+>>priority: 1
+
+
+^^detailed_steps
+Navigate to the Women category page on 'Evershop'
+Click on the search bar
+Start typing a product name known to exist in the inventory --> Verify that predictive text suggestions appear as the user types
+ --> Verify that the auto-complete functionality works correctly and suggests products with visible price information and a short description
+^^
+
+

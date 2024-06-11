@@ -1,0 +1,12 @@
+>>testDataType: undefined
+>>summary: Ensure the Promotion Code field and Apply button function correctly
+>>tags: 
+>>feature: cart
+
+
+^^detailed_steps
+Enter a known valid promotion code into the promotion code field
+Click on the 'Apply' button --> Verify that the discount is applied to the order summary
+^^
+
+

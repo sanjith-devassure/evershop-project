@@ -1,0 +1,13 @@
+>>testDataType: undefined
+>>summary: Ensure the Full Name field accepts only alphabetic and punctuation characters
+>>tags: 
+>>feature: Signup
+
+
+^^detailed_steps
+Load the signup page
+Enter 'John123' into the Full Name field --> Verify that an error message is displayed indicating invalid characters
+Enter 'John-Doe' into the Full Name field --> Verify no error message is displayed indicating a valid input
+^^
+
+

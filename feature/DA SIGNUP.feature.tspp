@@ -1,0 +1,17 @@
+
+
+^^^^tspp_spec_start type:PLAIN_TEXT
+<div style="font-size: inherit;"><b style="font-weight:normal"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; background-color: rgb(255, 255, 255);"><span style="font-size: 11pt; font-family: Roboto, sans-serif; font-weight: 400; text-decoration: none; white-space: pre-wrap; color: rgb(0, 0, 0);">When user enters all the details and clicks on sign up (Create DevAssure account)</span></p><ol style="margin-top:0;margin-bottom:0;padding-inline-start:48px" data-listchain="__List_Chain_0"><li dir="ltr" style="list-style-type: decimal; font-size: 10.5pt; font-family: Roboto, sans-serif; font-weight: 400; text-decoration: none; white-space: pre; color: rgb(0, 0, 0);"><p dir="ltr" style="line-height:1.38;margin-top:11pt;margin-bottom:0pt"><span style="text-decoration:none;white-space:pre-wrap">User will be asked to confirm email - A confirmation email is sent to the user’s email id&nbsp;</span></p></li><li dir="ltr" style="list-style-type: decimal; font-size: 10.5pt; font-family: Roboto, sans-serif; font-weight: 400; text-decoration: none; white-space: pre; color: rgb(0, 0, 0);"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span style="text-decoration:none;white-space:pre-wrap">Post email confirmation, user will be routed to create an organization&nbsp;</span></p></li><li dir="ltr" style="list-style-type: decimal; font-size: 10.5pt; font-family: Roboto, sans-serif; font-weight: 400; text-decoration: none; white-space: pre; color: rgb(0, 0, 0);"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span style="text-decoration:none;white-space:pre-wrap">Post create organization, User will be asked to enter project details&nbsp;</span></p></li><li dir="ltr" style="list-style-type: decimal; font-size: 10.5pt; font-family: Roboto, sans-serif; font-weight: 400; text-decoration: none; white-space: pre; color: rgb(0, 0, 0);"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:11pt"><span style="text-decoration:none;white-space:pre-wrap">These project details will be displayed on the home page</span></p></li></ol></b></div>
+^^^^tspp_spec_end
+
+
+
+^^^^tspp_images_start
+[
+{"type":"file","link":"OAOV4v.png"},
+{"type":"file","link":"OJoYDE.png"},
+{"type":"file","link":"oa83eE.png"},
+{"type":"file","link":"eiQnwb.png"},
+{"type":"file","link":"dytZ1F.png"}
+]
+^^^^tspp_images_end

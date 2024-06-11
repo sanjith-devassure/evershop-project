@@ -1,0 +1,14 @@
+>>testDataType: undefined
+>>summary: Verify the presence and functionality of the navigation menu at the top of the viewport
+>>tags: Navigation, UI, Layout, Top_Menu, Accessibility
+>>feature: Home
+>>feature: Home
+>>priority: 1
+
+
+^^detailed_steps
+Load the homepage of 'Evershop' --> Verify that the navigation menu is present at the top of the viewport
+Resize the browser window to different viewport sizes --> Verify that the navigation menu remains at the top in all viewport sizes
+^^
+
+

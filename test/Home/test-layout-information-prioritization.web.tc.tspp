@@ -1,0 +1,14 @@
+>>testDataType: undefined
+>>summary: Check that the layout prioritizes important information and actions for the user.
+>>tags: Layout, Information_Prioritization, User_Journey, UI
+>>feature: Home
+>>feature: Home
+>>priority: 1
+
+
+^^detailed_steps
+Load the homepage of 'Evershop' --> Verify that the most important information is immediately visible on the homepage
+ --> Verify that primary actions such as 'Add to Cart' buttons are prominently displayed and easily accessible
+^^
+
+

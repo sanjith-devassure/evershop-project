@@ -1,0 +1,16 @@
+>>testDataType: undefined
+>>summary: Verify the functionality of pausing and navigating through the promotional banner on the Evershop homepage.
+>>tags: UI, Promotional_Banner, Navigation_Controls
+>>feature: Home
+>>feature: Home
+>>priority: 1
+
+
+^^detailed_steps
+Navigate to the homepage of 'Evershop' --> Verify that the promotional banner is auto-rotating
+Click on the pause button on the promotional banner --> Verify that the promotional banner rotation has paused
+Click on the next button on the promotional banner --> Verify that the next promotional item is displayed
+Click on the previous button on the promotional banner --> Verify that the previous promotional item is displayed
+^^
+
+

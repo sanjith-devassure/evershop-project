@@ -1,0 +1,13 @@
+>>testDataType: undefined
+>>summary: Verify that the product details are displayed correctly
+>>tags: 
+>>feature: Product
+
+
+^^detailed_steps
+Navigate to the product display page --> Verify that the product name is displayed prominently
+ --> Verify that the product price is displayed in a clear and readable format
+ --> Verify that the unique SKU identifier is visible for inventory tracking
+^^
+
+

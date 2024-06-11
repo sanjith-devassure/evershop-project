@@ -1,0 +1,14 @@
+>>testDataType: undefined
+>>summary: Verify quantity selection and limitations
+>>tags: 
+>>feature: Product
+
+
+^^detailed_steps
+Navigate to the product page URL --> Verify the default quantity is set to one (1)
+Increment the quantity --> Verify the quantity increments correctly
+Decrement the quantity --> Verify the quantity decrements correctly
+Try to set the quantity beyond available stock --> Verify the system prevents setting quantity beyond available stock
+^^
+
+

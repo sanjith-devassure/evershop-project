@@ -1,0 +1,14 @@
+>>testDataType: undefined
+>>summary: Verify that the login form is centered and has the required input fields with correct placeholders.
+>>tags: 
+>>feature: Login
+
+
+^^detailed_steps
+Navigate to the login page URL. --> Verify that the login form is centered on the page.
+ --> Verify that there are two input fields for email and password.
+ --> Verify that the email input field has a placeholder text 'Email'.
+ --> Verify that the password input field has a placeholder text 'Password'.
+^^
+
+

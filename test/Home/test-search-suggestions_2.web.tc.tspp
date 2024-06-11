@@ -1,0 +1,16 @@
+>>testDataType: undefined
+>>summary: Check that the search bar provides accurate suggestions with images, prices, and descriptions as the user types
+>>tags: Search_Functionality, Predictive_Text, Auto-Complete, UI
+>>feature: Home
+>>feature: Home
+>>priority: 0
+
+
+^^detailed_steps
+Navigate to the homepage of 'Evershop'
+Click on the search bar
+Type a partial product name into the search bar --> Verify that suggested results are displayed in a dropdown as text is entered
+ --> Verify that each suggestion in the dropdown includes an image, price information, and a short description
+^^
+
+

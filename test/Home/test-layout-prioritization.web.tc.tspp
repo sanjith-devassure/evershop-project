@@ -1,0 +1,12 @@
+>>testDataType: undefined
+>>summary: Test the layout prioritization of information and actions on the homepage.
+>>tags: 
+>>feature: Home
+
+
+^^detailed_steps
+Open the Evershop homepage --> Verify that the most important information such as promotions and featured products is immediately visible
+ --> Verify that primary actions like 'Shop Now' buttons are prominently displayed and easily accessible
+^^
+
+

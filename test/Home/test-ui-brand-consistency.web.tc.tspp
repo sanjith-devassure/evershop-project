@@ -1,0 +1,14 @@
+>>testDataType: undefined
+>>summary: Verify the consistency of the 'Evershop' brand across the User Interface
+>>tags: 
+>>feature: Home
+
+
+^^detailed_steps
+Load the homepage of 'Evershop' --> Verify that the color palette is consistent throughout the page
+ --> Verify that the typography is consistent with the 'Evershop' brand
+ --> Verify that imagery reinforces 'Evershop' brand recognition
+ --> Verify that text and background contrasts adhere to visibility standards
+^^
+
+

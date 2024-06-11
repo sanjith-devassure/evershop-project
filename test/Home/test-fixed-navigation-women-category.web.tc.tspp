@@ -1,0 +1,14 @@
+>>testDataType: undefined
+>>summary: Verify that the navigation menu remains fixed at the top on the Women category page
+>>tags: Navigation_Menu, Fixed_Position, Women_Category
+>>feature: Home
+>>feature: Home
+>>priority: 0
+
+
+^^detailed_steps
+Navigate to the Women category page on 'Evershop' --> Verify that the navigation menu is present at the top of the viewport upon page load
+Scroll down the page --> Verify that the navigation menu remains fixed at the top of the viewport while scrolling
+^^
+
+

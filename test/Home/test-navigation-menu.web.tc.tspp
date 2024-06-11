@@ -1,0 +1,13 @@
+>>testDataType: undefined
+>>summary: Check the navigation menu functionality and responsiveness
+>>tags: 
+>>feature: Home
+
+
+^^detailed_steps
+Load the homepage of 'Evershop' --> Verify that the navigation menu is at the top of the viewport
+Hover over a main category in the navigation menu --> Verify that sub-categories expand in a drop-down menu
+Resize the browser window to simulate a smaller screen --> Verify that the navigation menu converts into a hamburger menu
+^^
+
+

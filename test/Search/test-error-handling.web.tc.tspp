@@ -1,0 +1,12 @@
+>>testDataType: undefined
+>>summary: Test user-friendly error message display and internal error logging on search failure
+>>tags: 
+>>feature: Search
+
+
+^^detailed_steps
+Simulate a search operation that will fail --> Verify if a user-friendly error message is displayed to the user
+Check internal logs --> Verify if the error encountered is logged internally for review
+^^
+
+

@@ -1,0 +1,13 @@
+>>testDataType: undefined
+>>summary: Ensure the featured products section displays curated items correctly
+>>tags: 
+>>feature: Home
+
+
+^^detailed_steps
+Load the homepage of 'Evershop' --> Verify that the featured products showcase new arrivals, best-sellers, or items on promotion
+Hover over a featured product --> Verify that a high-definition image, price, and name are displayed for each product
+ --> Verify that a quick view option is triggered on hover that shows a brief description and an add-to-cart option
+^^
+
+

@@ -1,0 +1,13 @@
+>>testDataType: undefined
+>>summary: Ensure that the backend interface allows the e-commerce manager to update featured products easily.
+>>tags: 
+>>feature: Home
+
+
+^^detailed_steps
+Log in to the backend interface as an e-commerce manager.
+Navigate to the 'Featured Products' section.
+Select new products to feature and submit the update. --> Verify that the featured products on the homepage are updated accordingly.
+^^
+
+

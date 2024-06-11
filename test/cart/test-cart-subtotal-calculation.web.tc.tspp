@@ -1,0 +1,11 @@
+>>testDataType: undefined
+>>summary: Validate that the Shopping Cart calculates and displays an accurate subtotal
+>>tags: 
+>>feature: cart
+
+
+^^detailed_steps
+Add multiple items to the shopping cart with varying quantities --> Verify that the subtotal displayed is the sum of all items' total prices
+^^
+
+

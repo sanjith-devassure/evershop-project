@@ -1,0 +1,15 @@
+>>testDataType: undefined
+>>summary: Verify that the shopping cart functionality updates correctly with item addition and displays preview
+>>tags: Shopping_Cart, Functionality, UI
+>>feature: Home
+>>feature: Home
+>>priority: 1
+
+
+^^detailed_steps
+Navigate to a product on the 'Evershop' homepage
+Click on the 'Add to Cart' button for a product --> Verify that the shopping cart icon indicates an increased item count
+Hover over the shopping cart icon --> Verify that a preview of the cart's contents is displayed, showing product details, remove item option, and quantity adjustment feature
+^^
+
+

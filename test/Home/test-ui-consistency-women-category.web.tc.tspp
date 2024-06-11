@@ -1,0 +1,15 @@
+>>testDataType: undefined
+>>summary: Verify that the User Interface reflects the Evershop brand and legibility standards on the Women category page
+>>tags: UI, Brand, Legibility, Women_Category
+>>feature: Home
+>>feature: Home
+>>priority: 1
+
+
+^^detailed_steps
+Navigate to the Women category page on 'Evershop' --> Verify that the color palette on the Women category page is consistent with the Evershop brand guidelines
+ --> Verify that the typography on the Women category page matches the Evershop brand guidelines
+ --> Verify that text and background contrasts on the Women category page meet the minimum standards for visibility
+^^
+
+

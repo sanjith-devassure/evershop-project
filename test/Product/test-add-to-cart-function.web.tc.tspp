@@ -1,0 +1,14 @@
+>>testDataType: undefined
+>>summary: Validate the 'Add to Cart' functionality
+>>tags: 
+>>feature: Product
+
+
+^^detailed_steps
+Navigate to the product display page
+Select the desired product attributes and quantity
+Click on the 'Add to Cart' button --> Verify that the product is added to the shopping cart
+ --> Verify that a confirmation message or cart icon update is displayed to confirm the action
+^^
+
+

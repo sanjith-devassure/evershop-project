@@ -1,0 +1,13 @@
+>>testDataType: undefined
+>>summary: Test system performance for account creation process
+>>tags: 
+>>feature: Signup
+
+
+^^detailed_steps
+Load the signup page
+Fill out the signup form with unique and valid data
+Click 'SIGN UP' button --> Verify that the account creation process completes within 5 seconds
+^^
+
+

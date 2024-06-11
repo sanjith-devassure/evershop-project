@@ -1,0 +1,16 @@
+>>testDataType: undefined
+>>summary: Test input fields and placeholder behavior
+>>tags: 
+>>feature: Signup
+
+
+^^detailed_steps
+Click on the Full Name input field --> Verify that the placeholder text is present and grayed out
+Type alphabetic characters into the Full Name field --> Verify that the placeholder text disappears when typing begins
+Click on the Email input field --> Verify that the placeholder text is present and grayed out
+Type a standard email pattern into the Email field --> Verify that the placeholder text disappears when typing begins
+Click on the Password input field --> Verify that the placeholder text is present and grayed out
+Type into the Password field --> Verify that the placeholder text disappears when typing begins
+^^
+
+

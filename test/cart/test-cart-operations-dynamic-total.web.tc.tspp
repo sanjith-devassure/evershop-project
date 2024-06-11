@@ -1,0 +1,15 @@
+>>testDataType: undefined
+>>summary: Ensure cart operations update total cost dynamically
+>>tags: 
+>>feature: cart
+
+
+^^detailed_steps
+Add an item to the shopping cart
+Navigate to the shopping cart page
+Increase the quantity of the item --> Verify that the total cost updates to reflect the change in quantity
+Decrease the quantity of the item --> Verify that the total cost updates to reflect the change in quantity
+Remove the item from the cart --> Verify that the total cost updates to reflect the removal of the item
+^^
+
+

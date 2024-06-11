@@ -1,0 +1,12 @@
+>>testDataType: undefined
+>>summary: Test navigation to login from the signup form
+>>tags: 
+>>feature: Signup
+
+
+^^detailed_steps
+Load the signup page
+Click on the 'Already have an account? Login' link --> Verify that the user is navigated to the login page without a confirmation step
+^^
+
+

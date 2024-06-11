@@ -1,0 +1,12 @@
+>>testDataType: undefined
+>>summary: Test the filter options functionality on the search results page
+>>tags: 
+>>feature: Search
+
+
+^^detailed_steps
+Perform a search with multiple results --> Verify if filter options are displayed on the results page
+Select a filter criteria from the options --> Verify if the results are refined based on the selected filter criteria
+^^
+
+

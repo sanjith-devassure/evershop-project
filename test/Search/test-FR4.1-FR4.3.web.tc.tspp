@@ -1,0 +1,12 @@
+>>testDataType: undefined
+>>summary: Test the display of search results and no results message
+>>tags: 
+>>feature: Search
+
+
+^^detailed_steps
+Type a query into the search bar and initiate a search --> Check if a dropdown appears with product matches
+Type a query that matches no products and initiate a search --> Check if a 'No products found' message is displayed
+^^
+
+

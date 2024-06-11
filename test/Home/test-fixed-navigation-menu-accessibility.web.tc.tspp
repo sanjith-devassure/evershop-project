@@ -1,0 +1,14 @@
+>>testDataType: undefined
+>>summary: Validate that the navigation menu is fixed at the top and provides access to all major categories.
+>>tags: Navigation_Menu, Accessibility, UI, Fixed_Position
+>>feature: Home
+>>feature: Home
+>>priority: 0
+
+
+^^detailed_steps
+Load the homepage of 'Evershop' --> Verify that the navigation menu is fixed at the top of the viewport
+Hover over each main category in the navigation menu --> Verify that sub-categories are accessible and expand from the main categories
+^^
+
+

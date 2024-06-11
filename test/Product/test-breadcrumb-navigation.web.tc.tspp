@@ -1,0 +1,12 @@
+>>testDataType: undefined
+>>summary: Examine breadcrumb navigation and interactivity
+>>tags: 
+>>feature: Product
+
+
+^^detailed_steps
+Navigate to the product display page --> Verify that the breadcrumb trail is present and reflects the navigation path
+Click on a part of the breadcrumb trail --> Verify that clicking on the breadcrumb trail takes the user to the respective page or section
+^^
+
+

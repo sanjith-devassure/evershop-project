@@ -1,0 +1,12 @@
+>>testDataType: undefined
+>>summary: Validate the lazy loading functionality for off-screen images for performance
+>>tags: 
+>>feature: Home
+
+
+^^detailed_steps
+Navigate to a category page with multiple product images on 'Evershop' --> Verify that off-screen images are not loaded immediately on page load
+Scroll down the page to bring off-screen images into view --> Verify that the off-screen images begin to load as they come into view
+^^
+
+

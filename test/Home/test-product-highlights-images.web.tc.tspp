@@ -1,0 +1,12 @@
+>>testDataType: undefined
+>>summary: Ensure that high-quality images are used in the product highlights section
+>>tags: 
+>>feature: Home
+
+
+^^detailed_steps
+Navigate to the 'Evershop' homepage --> Verify that the product highlights section uses high-quality images relevant to the displayed collection
+ --> Verify that the image quality does not degrade on different screen resolutions
+^^
+
+

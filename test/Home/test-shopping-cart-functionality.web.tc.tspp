@@ -1,0 +1,13 @@
+>>testDataType: undefined
+>>summary: Check the Shopping Cart functionality for item count and preview capability.
+>>tags: 
+>>feature: Home
+
+
+^^detailed_steps
+Open the Evershop homepage
+Add a product to the shopping cart --> Verify that the shopping cart icon updates to indicate the number of items in the cart
+Hover over the shopping cart icon --> Verify that a preview of the cart's contents is displayed
+^^
+
+

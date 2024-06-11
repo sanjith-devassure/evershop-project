@@ -1,0 +1,35 @@
+>>testDataType: undefined
+>>summary: Verify the Shopping Cart icon visibility and real-time item count update
+>>tags: 
+>>feature: cart
+>>ticketUrl: 
+>>importSource: 
+>>priority: 
+
+
+^^detailed_steps
+Navigate to Evershop homepage --> Verify that the Shopping Cart icon is visible in the upper section of the homepage
+Add an item to the cart --> Verify that the item count on the Shopping Cart icon has incremented by one
+^^
+
+--Open URL-- [[https://evershop.io/]] 
+--Click on-- {{web > OpensourceNodeJSecommerceplatform-EverShop > Exploreourdemo}} 
+--Switch to tab with index-- [[2]] 
+--Open URL-- [[https://demo.evershop.io/]] 
+--Click on-- {{web > CharkaNurture > SHOPKIDS}} 
+--Click on-- {{web > CoatedGlitterChuckTaylorAllStar > button}} 
+--Click on-- {{web > CoatedGlitterChuckTaylorAllStar > Qty}} 
+--Input value-- [[2]] --in-- {{web > CoatedGlitterChuckTaylorAllStar > Qty}} 
+--Press keyboard keys-- [[Enter]] --on-- {{web > CoatedGlitterChuckTaylorAllStar > Qty}} 
+--Click on-- {{web > CoatedGlitterChuckTaylorAllStar > M}} 
+--Click on-- {{web > CoatedGlitterChuckTaylorAllStar > Purple}} 
+>{
+for i in range(10):
+  print(i)
+  print(f)
+  print(k)
+  print(j)
+  print(i)
+}<
+--Click on-- {{web > CoatedGlitterChuckTaylorAllStar > ADDTOCART}} 
+

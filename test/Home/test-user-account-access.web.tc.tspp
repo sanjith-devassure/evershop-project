@@ -1,0 +1,13 @@
+>>testDataType: undefined
+>>summary: Validate the User Account Access for quick link functionality and expedited login.
+>>tags: 
+>>feature: Home
+
+
+^^detailed_steps
+Open the Evershop homepage
+Navigate to the account access link --> Verify that the link directs to the user profile information, order history, and wishlist or saved items
+Attempt to sign in using a social media account --> Verify that the login process is expedited and adheres to privacy and data-handling protocols
+^^
+
+

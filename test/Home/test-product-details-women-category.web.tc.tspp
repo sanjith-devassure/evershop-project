@@ -1,0 +1,17 @@
+>>testDataType: undefined
+>>summary: Verify that the product details in the Women category page match the 'Evershop' brand and functionality standards
+>>tags: Product_Details, Branding, Functionality, Women_Category
+>>feature: Home
+>>feature: Home
+>>priority: 2
+
+
+^^detailed_steps
+Navigate to the Women category page on 'Evershop'
+Select a product from the Women category --> Verify that the selected product displays a high-definition image
+ --> Verify that the selected product's price is displayed and adheres to 'Evershop' brand guidelines
+ --> Verify that the selected product's name is displayed and matches the Evershop brand guidelines
+Hover over the selected product --> Verify that a quick view option is triggered on hover that shows a brief description and an add-to-cart option
+^^
+
+

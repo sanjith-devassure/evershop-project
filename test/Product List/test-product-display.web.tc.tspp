@@ -1,0 +1,14 @@
+>>testDataType: undefined
+>>summary: Verify that each product is displayed within its own tile on a grid with all necessary details
+>>tags: 
+>>feature: Product List
+
+
+^^detailed_steps
+Navigate to the product display page --> Verify that products are displayed in a grid format
+ --> Verify that each product tile contains a high-resolution image
+ --> Verify that the product name is displayed and is descriptive
+ --> Verify that the price is clearly formatted with currency and amount
+^^
+
+

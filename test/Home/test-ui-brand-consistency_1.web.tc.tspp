@@ -1,0 +1,12 @@
+>>testDataType: undefined
+>>summary: Verify that the User Interface adheres to the 'Evershop' brand with appropriate color palette and typography
+>>tags: 
+>>feature: Home
+
+
+^^detailed_steps
+Load the homepage of 'Evershop' --> Verify that the color palette used on the homepage matches the 'Evershop' brand guidelines
+ --> Verify that the typography used on the homepage is consistent with the 'Evershop' brand guidelines
+^^
+
+

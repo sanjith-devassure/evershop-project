@@ -1,0 +1,12 @@
+>>testDataType: undefined
+>>summary: Verify that the product tiles maintain consistent image sizes and legible text
+>>tags: 
+>>feature: Product List
+
+
+^^detailed_steps
+Navigate to the product display page --> Verify that all product images maintain a consistent size across different product tiles
+ --> Verify that the text under the product images (product name and price) is legible and the font size is consistent across different product tiles
+^^
+
+

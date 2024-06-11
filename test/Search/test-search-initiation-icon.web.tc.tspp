@@ -1,0 +1,15 @@
+>>testDataType: undefined
+>>summary: Verify search initiation using the search icon and display of results
+>>tags: 
+>>feature: Search
+
+
+^^detailed_steps
+Navigate to the website's primary page
+Click on the search bar
+Type a complete product name (Value: 'sneakers')
+Click on the search icon adjacent to the search bar --> Verify if the search is initiated
+ --> Verify if the results dropdown is displayed with products, images, names, and prices
+^^
+
+

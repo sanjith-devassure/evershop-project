@@ -1,0 +1,14 @@
+>>testDataType: undefined
+>>summary: Verify that interactive elements on the Women category page have distinct hover states
+>>tags: Interactive_Elements, Hover_State, Women_Category
+>>feature: Home
+>>feature: Home
+>>priority: 1
+
+
+^^detailed_steps
+Navigate to the Women category page on 'Evershop'
+Hover over an interactive element such as a product image or filter checkbox --> Verify that the interactive element displays a distinct hover state
+^^
+
+

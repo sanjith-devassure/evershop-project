@@ -1,0 +1,4 @@
+>>summary: 
+>>recorderName: OpensourceNodeJSecommerceplatform-EverShop
+
+==Exploreourdemo;XPATH;//a[text()="Explore our demo ->"];Link;[CSS:.button[href='https\:\/\/demo\.evershop\.io\/']^^CSS:div:nth-child(1) > div > div:nth-child(1) > a];[Exploreourdemo];[OpensourceNodeJSecommerceplatform-EverShop];==

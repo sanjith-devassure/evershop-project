@@ -1,0 +1,14 @@
+>>testDataType: undefined
+>>summary: Verify that promotional banners can be controlled by the user
+>>tags: 
+>>feature: Home
+
+
+^^detailed_steps
+Navigate to the homepage of 'Evershop' --> Verify that promotional banners are rotating automatically
+Click on the pause button on a promotional banner --> Verify that the promotional banner rotation has paused
+Click on the next button on the promotional banner --> Verify that the next promotional banner is displayed
+Click on the previous button on the promotional banner --> Verify that the previous promotional banner is displayed
+^^
+
+

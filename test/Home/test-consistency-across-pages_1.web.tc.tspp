@@ -1,0 +1,15 @@
+>>testDataType: undefined
+>>summary: Check that the color palette and typography are consistent on various pages of the website
+>>tags: User_Interface, Consistency, Branding
+>>feature: Home
+>>feature: Home
+>>priority: 2
+
+
+^^detailed_steps
+Load the homepage of 'Evershop' --> Verify that the color palette is consistent with the Evershop brand
+Navigate to the 'Men' category page --> Verify that the color palette on the 'Men' category page is consistent with the homepage
+Navigate to the 'Women' category page --> Verify that the typography on the 'Women' category page is consistent with the homepage
+^^
+
+

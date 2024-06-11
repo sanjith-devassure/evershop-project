@@ -1,0 +1,13 @@
+>>testDataType: undefined
+>>summary: Ensure the shopping cart updates and displays correctly when an item is added
+>>tags: 
+>>feature: Home
+
+
+^^detailed_steps
+Navigate to the homepage of 'Evershop'
+Select a product and add it to the shopping cart --> Verify that the shopping cart icon shows the correct number of items
+Hover over or click on the shopping cart icon --> Verify that a preview of the cart's contents is displayed with product details, the option to remove items, or adjust quantities
+^^
+
+

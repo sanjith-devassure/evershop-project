@@ -1,0 +1,15 @@
+>>testDataType: undefined
+>>summary: Test the application and validation of a promotion code
+>>tags: 
+>>feature: cart
+
+
+^^detailed_steps
+Navigate to the Shopping Cart page
+Enter a valid promotion code into the promotion code field
+Click on the 'Apply' button next to the promotion code field --> Verify that the discount is reflected in the order summary
+Enter an invalid promotion code
+Click on the 'Apply' button again --> Verify that an appropriate error message is displayed
+^^
+
+

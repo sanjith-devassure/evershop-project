@@ -1,0 +1,17 @@
+>>testDataType: undefined
+>>summary: Verify that the search functionality provides accurate suggestions with product images, prices, and descriptions
+>>tags: Search_Functionality, Predictive_Text, Auto-complete
+>>feature: Home
+>>feature: Home
+>>priority: 0
+
+
+^^detailed_steps
+Load the homepage of 'Evershop'
+Click on the search bar
+Start typing the name of a product known to exist in the inventory --> Verify that the search bar provides suggestions with product images
+ --> Verify that the search bar suggests products with visible price information
+ --> Verify that the search bar includes a short description of the suggested products
+^^
+
+

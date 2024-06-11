@@ -1,0 +1,14 @@
+>>testDataType: undefined
+>>summary: Test the search functionality for predictive text and auto-complete
+>>tags: 
+>>feature: Home
+
+
+^^detailed_steps
+Navigate to the 'Evershop' homepage
+Click on the search bar
+Start typing a product name --> Verify that predictive text suggestions appear
+ --> Verify that auto-complete functionality works correctly
+^^
+
+

@@ -1,0 +1,15 @@
+>>testDataType: undefined
+>>summary: Verify that the navigation menu remains at the top of the viewport on different screen sizes
+>>tags: Navigation_Menu, Viewport, Responsiveness
+>>feature: Home
+>>feature: Home
+>>priority: 1
+
+
+^^detailed_steps
+Load the homepage of 'Evershop' on a desktop browser --> Verify that the navigation menu is at the top of the viewport
+Resize the browser window to simulate a tablet screen size --> Verify that the navigation menu remains at the top of the viewport
+Resize the browser window to simulate a mobile screen size --> Verify that the navigation menu remains at the top of the viewport when represented as a hamburger menu
+^^
+
+

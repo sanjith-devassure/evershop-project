@@ -1,0 +1,13 @@
+>>testDataType: undefined
+>>summary: Verify that the call-to-action button on product highlights section redirects to the correct filtered product listing page.
+>>tags: 
+>>feature: Home
+
+
+^^detailed_steps
+Navigate to the homepage
+Locate and click on the call-to-action button in the product highlights section --> Verify the redirection to the product listing page
+ --> Verify that the product listing page only shows items from the selected collection
+^^
+
+

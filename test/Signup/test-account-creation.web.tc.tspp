@@ -1,0 +1,13 @@
+>>testDataType: undefined
+>>summary: Test account creation process when email does not exist in the database
+>>tags: 
+>>feature: Signup
+
+
+^^detailed_steps
+Fill in the Signup form with valid and unique Full Name, Email, and Password
+Click 'SIGN UP' button --> Ensure a confirmation message is displayed indicating successful account creation
+ --> Ensure the system sends a verification email to the entered email address
+^^
+
+

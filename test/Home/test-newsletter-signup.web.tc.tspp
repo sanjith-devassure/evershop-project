@@ -1,0 +1,13 @@
+>>testDataType: undefined
+>>summary: Test the display and functionality of the newsletter sign-up in the footer.
+>>tags: 
+>>feature: Home
+
+
+^^detailed_steps
+Scroll to the footer section --> Verify that the newsletter sign-up field is present
+Enter a valid email address into the newsletter sign-up field
+Click the 'Sign Up' button for the newsletter --> Verify that a confirmation message is displayed upon successful sign-up
+^^
+
+

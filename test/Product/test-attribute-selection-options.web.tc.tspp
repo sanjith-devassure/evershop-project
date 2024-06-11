@@ -1,0 +1,13 @@
+>>testDataType: undefined
+>>summary: Ensure the product attribute selection is functioning
+>>tags: 
+>>feature: Product
+
+
+^^detailed_steps
+Navigate to the product display page
+Select a product attribute such as size --> Verify that all available sizes are presented as selectable options
+Select a product attribute such as color --> Verify that all available colors are presented and the selected color is clearly indicated
+^^
+
+

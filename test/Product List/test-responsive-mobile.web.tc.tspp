@@ -1,0 +1,11 @@
+>>testDataType: undefined
+>>summary: Verify that product tiles stack in a single column on mobile devices.
+>>tags: 
+>>feature: Product List
+
+
+^^detailed_steps
+Reduce the browser window size to simulate a mobile device screen. --> Verify that product tiles are stacked in a single column.
+^^
+
+

@@ -1,0 +1,13 @@
+>>testDataType: undefined
+>>summary: Verify Email field validation using a regular expression pattern
+>>tags: 
+>>feature: Signup
+
+
+^^detailed_steps
+Load the signup page
+Enter 'user@' into the Email field --> Verify that an error message is displayed indicating invalid email format
+Enter 'user@example.com' into the Email field --> Verify no error message is displayed indicating a valid email format
+^^
+
+

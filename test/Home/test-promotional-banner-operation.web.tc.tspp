@@ -1,0 +1,15 @@
+>>testDataType: undefined
+>>summary: Ensure that the promotional banner operates correctly, rotating promotions and allowing user interaction.
+>>tags: Promotional_Banner, User_Interaction, Content_Rotation
+>>feature: Home
+>>feature: Home
+>>priority: 1
+
+
+^^detailed_steps
+Navigate to the homepage of 'Evershop'. --> Verify that the promotional banner is present and automatically rotating promotions at a set interval.
+Interact with the banner's rotation control buttons. --> Verify that the user can pause the rotation on a preferred promotion by clicking on the pause button.
+Click on the next or previous buttons on the promotional banner. --> Verify that clicking these buttons navigates to the respective next or previous promotion.
+^^
+
+

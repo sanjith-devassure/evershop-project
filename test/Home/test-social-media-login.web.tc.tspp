@@ -1,0 +1,13 @@
+>>testDataType: undefined
+>>summary: Test the functionality of social media login for user account access
+>>tags: 
+>>feature: Home
+
+
+^^detailed_steps
+Navigate to the 'Evershop' login page
+Choose to sign in using a social media account --> Verify that the social media login option directs the user to the appropriate social media authentication page
+Complete the social media login process --> Verify that the user is redirected back to 'Evershop' and logged in
+^^
+
+

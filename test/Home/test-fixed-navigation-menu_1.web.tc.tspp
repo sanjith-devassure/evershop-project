@@ -1,0 +1,15 @@
+>>testDataType: undefined
+>>summary: Ensure that the navigation menu is fixed at the top of the viewport and provides access to all main categories
+>>tags: Navigation_Menu, Fixed_Position, UI, Accessibility
+>>feature: Home
+>>feature: Home
+>>priority: 2
+
+
+^^detailed_steps
+Load the homepage of 'Evershop' --> Verify that the navigation menu is visible at the top of the viewport upon page load
+ --> Verify that all main categories are accessible from the navigation menu without scrolling
+Scroll down the page --> Verify that the navigation menu remains fixed at the top of the viewport while scrolling
+^^
+
+

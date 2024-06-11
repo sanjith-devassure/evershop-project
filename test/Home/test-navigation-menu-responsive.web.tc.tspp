@@ -1,0 +1,13 @@
+>>testDataType: undefined
+>>summary: Verify that the navigation menu converts into a hamburger menu on smaller screens and functions correctly.
+>>tags: 
+>>feature: Home
+
+
+^^detailed_steps
+Reduce the browser window size to simulate a smaller screen. --> Verify that the navigation menu converts into a hamburger menu icon.
+Click on the hamburger menu icon. --> Verify that the main categories are present in the drop-down menu.
+Hover over a main category to expand sub-categories. --> Verify that sub-categories expand and are selectable.
+^^
+
+

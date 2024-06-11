@@ -1,0 +1,13 @@
+>>testDataType: undefined
+>>summary: Verify clickable elements on product tile direct to detailed product page.
+>>tags: 
+>>feature: Product List
+
+
+^^detailed_steps
+Click on the product image of the first product tile. --> Verify that the browser navigates to the detailed product page.
+Navigate back to the product listing.
+Click on the product name of the first product tile. --> Verify that the browser navigates to the detailed product page.
+^^
+
+

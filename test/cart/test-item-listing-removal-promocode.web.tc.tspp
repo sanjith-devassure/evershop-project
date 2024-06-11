@@ -1,0 +1,16 @@
+>>testDataType: undefined
+>>summary: Validate the item listing, removal, and promotion code application in cart
+>>tags: 
+>>feature: cart
+
+
+^^detailed_steps
+Add multiple items to the shopping cart
+Navigate to the shopping cart page --> Verify that all added items are listed with their name, image, attributes, unit price, quantity, and total price
+Click on 'Remove' link for an item --> Verify that the item is removed from the cart
+Enter a promotion code into the promotion code field
+Click on the 'Apply' button --> Verify that the discount is applied to the order summary if the code is valid
+ --> Verify that an error message is shown if the promotion code is invalid
+^^
+
+

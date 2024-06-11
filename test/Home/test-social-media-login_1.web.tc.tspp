@@ -1,0 +1,15 @@
+>>testDataType: undefined
+>>summary: Ensure that the social media login process is smooth and logs the user into their 'Evershop' account
+>>tags: User_Account, Social_Media_Login, Authentication
+>>feature: Home
+>>feature: Home
+>>priority: 1
+
+
+^^detailed_steps
+Navigate to the 'Evershop' login page
+Click on the 'Sign in with social media' option --> Verify that social media platforms are listed for login
+Select a social media platform and authenticate --> Verify that the user is redirected back to the 'Evershop' site with a logged-in status
+^^
+
+

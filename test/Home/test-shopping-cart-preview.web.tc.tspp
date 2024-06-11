@@ -1,0 +1,13 @@
+>>testDataType: undefined
+>>summary: Ensure the quantity adjustment and item removal functionalities work in the shopping cart preview.
+>>tags: 
+>>feature: Home
+
+
+^^detailed_steps
+Hover over or click on the shopping cart icon --> Verify that the cart preview is displayed
+Increase the quantity of a product --> Verify that the product quantity updates correctly
+Remove a product from the cart --> Verify that the product is removed from the cart preview
+^^
+
+

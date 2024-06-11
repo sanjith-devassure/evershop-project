@@ -1,0 +1,14 @@
+>>testDataType: undefined
+>>summary: Test keyboard navigation through autocomplete suggestions and search initiation
+>>tags: 
+>>feature: Search
+
+
+^^detailed_steps
+Click on the search bar
+Type a product name to trigger autocomplete suggestions --> Verify if autocomplete suggestions are visible
+Use arrow keys to navigate through suggestions --> Verify if the selection changes with arrow keys
+Press Enter to select a suggestion --> Verify if the search is initiated with the selected suggestion
+^^
+
+

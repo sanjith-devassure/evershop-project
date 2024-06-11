@@ -1,0 +1,12 @@
+>>testDataType: undefined
+>>summary: Verify the functionality of the clear input feature of the search bar
+>>tags: 
+>>feature: Search
+
+
+^^detailed_steps
+Type text into the search bar
+Click the clear button within the search bar --> Check if the search bar is cleared and reset to its default state
+^^
+
+

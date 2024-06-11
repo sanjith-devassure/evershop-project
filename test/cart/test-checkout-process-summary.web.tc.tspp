@@ -1,0 +1,17 @@
+>>testDataType: undefined
+>>summary: Verify checkout process, information collection, and summary
+>>tags: 
+>>feature: cart
+
+
+^^detailed_steps
+Add items to the shopping cart
+Navigate to the shopping cart page
+Click on the 'Checkout' button --> Verify that the checkout process begins and prompts for shipping information
+Fill in contact information and shipping address
+Proceed to the checkout summary stage --> Verify that the summary of items, total cost including discounts and taxes, is displayed
+ --> Verify that the provided shipping address is validated
+Confirm the information and proceed with the checkout --> Verify that a confirmation step is included for reviewing all information before finalizing the purchase
+^^
+
+

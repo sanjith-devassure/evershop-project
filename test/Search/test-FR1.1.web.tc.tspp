@@ -1,0 +1,12 @@
+>>testDataType: undefined
+>>summary: Test visibility and prominent display of the search bar on the primary page
+>>tags: 
+>>feature: Search
+
+
+^^detailed_steps
+Load the primary page of the website --> Check if the search bar is immediately visible on the page load
+ --> Check if the search bar is positioned consistently across different primary pages
+^^
+
+

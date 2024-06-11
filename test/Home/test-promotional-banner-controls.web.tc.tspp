@@ -1,0 +1,16 @@
+>>testDataType: undefined
+>>summary: Verify that the user can interact with the promotional banner controls to navigate between promotions
+>>tags: Promotional_Banner, User_Interaction, UI_Controls
+>>feature: Home
+>>feature: Home
+>>priority: 2
+
+
+^^detailed_steps
+Navigate to the homepage of 'Evershop' --> Verify that the promotional banner is present and auto-rotating
+Click on the promotional banner's 'Next' control --> Verify that the banner moves to the next promotion
+Click on the promotional banner's 'Previous' control --> Verify that the banner moves to the previous promotion
+Click on the promotional banner's 'Pause' control --> Verify that the auto-rotation of the banner is paused
+^^
+
+

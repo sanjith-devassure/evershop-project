@@ -1,0 +1,13 @@
+>>testDataType: undefined
+>>summary: Ensure that hover-triggered quick view option on featured products displays the correct information.
+>>tags: 
+>>feature: Home
+
+
+^^detailed_steps
+Navigate to the featured products section on the homepage
+Hover over a featured product --> Verify if a quick view option appears
+ --> Verify that the quick view displays product image, brief description, and add to cart option
+^^
+
+

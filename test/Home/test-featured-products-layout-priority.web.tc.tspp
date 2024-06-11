@@ -1,0 +1,14 @@
+>>testDataType: undefined
+>>summary: Verify that the Evershop homepage layout prioritizes important information such as new arrivals in the Featured Products Section.
+>>tags: UI, Layout, Featured_Products, Priority
+>>feature: Home
+>>feature: Home
+>>priority: 1
+
+
+^^detailed_steps
+Load the homepage of 'Evershop' --> Verify that the Featured Products Section is visible without scrolling
+ --> Verify that new arrivals, best-sellers, or items on promotion are displayed in the Featured Products Section
+^^
+
+

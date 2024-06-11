@@ -1,0 +1,12 @@
+>>testDataType: undefined
+>>summary: Verify that the sorting functionality reorders the product list according to the selected option
+>>tags: 
+>>feature: Product List
+
+
+^^detailed_steps
+Navigate to the product display page
+Select a sort option from the drop-down menu --> Verify that the product list is reordered immediately according to the selected sort option
+^^
+
+

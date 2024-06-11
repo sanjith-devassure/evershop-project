@@ -1,0 +1,16 @@
+>>testDataType: undefined
+>>summary: Ensure that all interactive elements on the homepage exhibit a distinct hover state.
+>>tags: Interactive_Elements, Hover_State, UI, User_Experience
+>>feature: Home
+>>feature: Home
+>>priority: 2
+
+
+^^detailed_steps
+Load the homepage of 'Evershop'
+Hover over a button on the homepage --> Verify that the button exhibits a distinct hover state
+Hover over a link on the homepage --> Verify that the link exhibits a distinct hover state
+Hover over a form control on the homepage --> Verify that the form control exhibits a distinct hover state
+^^
+
+

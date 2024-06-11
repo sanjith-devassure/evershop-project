@@ -1,0 +1,11 @@
+>>testDataType: undefined
+>>summary: Validate the implementation of lazy loading for off-screen images to improve performance.
+>>tags: 
+>>feature: Home
+
+
+^^detailed_steps
+Navigate to a page with a large number of images --> Verify that off-screen images are not loaded until they come into view
+^^
+
+

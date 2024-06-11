@@ -1,0 +1,15 @@
+>>testDataType: undefined
+>>summary: Check that the promotional banner updates with content from the CMS and is displayed correctly
+>>tags: Promotional_Banner, CMS_Integration, Content_Update
+>>feature: Home
+>>feature: Home
+>>priority: 0
+
+
+^^detailed_steps
+Log in to the CMS as a non-technical staff member
+Update the promotional banner with a new promotion and publish it
+Navigate to the 'Evershop' homepage --> Verify that the new promotion is displayed in the promotional banner
+^^
+
+

@@ -1,0 +1,16 @@
+>>testDataType: undefined
+>>summary: Ensure that the promotional banner includes navigation controls and reflects updates from CMS
+>>tags: Promotional_Banner, CMS, User_Controls
+>>feature: Home
+>>feature: Home
+>>priority: 1
+
+
+^^detailed_steps
+Navigate to the backend CMS as a non-technical staff member
+Update the promotional banner with a new promotion
+Load the homepage of 'Evershop' --> Verify that the updated promotion is displayed in the promotional banner
+ --> Verify that the banner includes user controls for navigating to the next and previous promotions
+^^
+
+

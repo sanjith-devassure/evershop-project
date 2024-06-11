@@ -1,0 +1,14 @@
+>>testDataType: undefined
+>>summary: Verify Add to Cart functionality and user feedback
+>>tags: 
+>>feature: Product
+
+
+^^detailed_steps
+Navigate to the product page URL
+Select product attributes and quantity
+Click on the 'Add to Cart' button --> Verify the product is added to the cart
+ --> Verify a confirmation message or cart icon update is displayed to confirm the action
+^^
+
+

@@ -1,0 +1,12 @@
+>>testDataType: undefined
+>>summary: Check that the product highlights section displays high-quality imagery and directs to the filtered product listing page.
+>>tags: 
+>>feature: Home
+
+
+^^detailed_steps
+Locate the product highlights section on the homepage. --> Verify that high-quality images are displayed for each collection.
+Click on the 'Shop Now' button in one of the highlighted sections. --> Verify that the user is redirected to a product listing page filtered to show only the items from the selected collection.
+^^
+
+

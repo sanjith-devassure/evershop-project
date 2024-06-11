@@ -1,0 +1,14 @@
+>>testDataType: undefined
+>>summary: Validate the functionality of the 'Remove' link for cart items
+>>tags: 
+>>feature: cart
+
+
+^^detailed_steps
+Add multiple items to the shopping cart
+Navigate to the Shopping Cart page
+Click on the 'Remove' link for a specific item --> Verify that the item is removed from the cart
+ --> Verify that the total cost is updated correctly
+^^
+
+

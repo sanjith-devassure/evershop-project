@@ -1,0 +1,13 @@
+>>testDataType: undefined
+>>summary: Verify cart visibility and item indicator functionality
+>>tags: 
+>>feature: cart
+
+
+^^detailed_steps
+Navigate to the Evershop platform homepage --> Verify that the shopping cart icon is visible in the upper section of the page
+Add an item to the shopping cart --> Verify that a badge with the number '1' appears on the shopping cart icon
+Remove the item from the shopping cart --> Verify that the badge on the shopping cart icon updates to show the correct number of items
+^^
+
+

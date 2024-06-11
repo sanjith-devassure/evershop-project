@@ -1,0 +1,13 @@
+>>testDataType: undefined
+>>summary: Verify that the product page is responsive and maintains usability across different devices
+>>tags: 
+>>feature: Product List
+
+
+^^detailed_steps
+Navigate to the product display page on a mobile device --> Verify that product tiles are stacked in a single column
+ --> Verify that text sizes and touch targets are adjustable for smaller screens
+Navigate to the product display page on a desktop device --> Verify that the layout is adapted to the larger screen size
+^^
+
+

@@ -1,0 +1,11 @@
+>>testDataType: undefined
+>>summary: Verify that the text and background contrasts meet minimum standards for visibility across the User Interface.
+>>tags: 
+>>feature: Home
+
+
+^^detailed_steps
+Open the Evershop homepage --> Verify that all text elements on the page have sufficient contrast against their background
+^^
+
+

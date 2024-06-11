@@ -1,0 +1,13 @@
+>>testDataType: undefined
+>>summary: Verify the Shopping Cart maintains item state across user sessions
+>>tags: 
+>>feature: cart
+
+
+^^detailed_steps
+Add multiple items to the shopping cart
+Close the browser
+Reopen the browser and navigate back to the Evershop platform --> Verify that the previously added items are still present in the shopping cart
+^^
+
+

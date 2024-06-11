@@ -1,0 +1,12 @@
+>>testDataType: undefined
+>>summary: Ensure the Search Functionality displays suggested results with images, price, and description.
+>>tags: 
+>>feature: Home
+
+
+^^detailed_steps
+Open the Evershop homepage
+Click on the search bar and start typing a product name --> Verify that suggested products with images, price information, and a short description are displayed
+^^
+
+

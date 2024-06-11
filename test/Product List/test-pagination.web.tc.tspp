@@ -1,0 +1,15 @@
+>>testDataType: undefined
+>>summary: Verify the functionality of pagination system
+>>tags: 
+>>feature: Product List
+
+
+^^detailed_steps
+Navigate to the product display page
+Scroll to the pagination system at the bottom of the product listing
+Click on the next page arrow --> Verify that the product listing updates to show the next page of products
+Click on the last page button --> Verify that the product listing updates to show the last page of products
+Click on the first page button --> Verify that the product listing updates to show the first page of products
+^^
+
+

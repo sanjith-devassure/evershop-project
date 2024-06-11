@@ -1,0 +1,13 @@
+>>testDataType: undefined
+>>summary: Validate the functionality of the promotional banner
+>>tags: 
+>>feature: Home
+
+
+^^detailed_steps
+Load the homepage of 'Evershop' --> Verify that the promotional banner showcases latest deals
+Wait for the set interval for banner rotation --> Verify that the banners rotate automatically
+Interact with the banner's rotation control --> Verify that users can pause or navigate through the promotions
+^^
+
+

@@ -1,0 +1,14 @@
+>>testDataType: undefined
+>>summary: Test the interactive elements for distinct hover state
+>>tags: 
+>>feature: Home
+
+
+^^detailed_steps
+Load the homepage of 'Evershop'
+Hover over a button element --> Verify that the button has a distinct hover state
+Hover over a link element --> Verify that the link has a distinct hover state
+Hover over a form control element --> Verify that the form control has a distinct hover state
+^^
+
+

@@ -1,0 +1,15 @@
+>>testDataType: undefined
+>>summary: Verify that the navigation menu remains accessible and functional when resizing the browser window
+>>tags: Navigation, Responsive_Design, Menu_Accessibility
+>>feature: Home
+>>feature: Home
+>>priority: 1
+
+
+^^detailed_steps
+Load the homepage of 'Evershop' on a desktop browser
+Resize the browser window to simulate a tablet screen size --> Verify that the navigation menu remains at the top of the viewport
+Resize the browser window to simulate a mobile screen size --> Verify that the navigation menu converts to a hamburger menu and is functional
+^^
+
+

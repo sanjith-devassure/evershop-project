@@ -1,0 +1,14 @@
+>>testDataType: undefined
+>>summary: Ensure the system checks for duplicate email and provides appropriate feedback
+>>tags: 
+>>feature: Signup
+
+
+^^detailed_steps
+Load the signup page
+Enter a known duplicate email into the Email field
+Fill out the rest of the form with valid data
+Click 'SIGN UP' button --> Verify that an error message is displayed indicating the email already exists
+^^
+
+

@@ -1,0 +1,12 @@
+>>testDataType: undefined
+>>summary: Test the dynamic adjustment of filter options based on current products shown
+>>tags: 
+>>feature: Search
+
+
+^^detailed_steps
+Perform a search with multiple results
+Apply a specific filter criteria --> Verify if the filter options dynamically adjust to the current products shown
+^^
+
+

@@ -1,0 +1,15 @@
+>>testDataType: undefined
+>>summary: Ensure the promotional banner showcases the latest deals and allows user control for rotation
+>>tags: Promotion, Banner, User_Control, Automatic_Rotation
+>>feature: Home
+>>feature: Home
+>>priority: 1
+
+
+^^detailed_steps
+Navigate to the homepage of 'Evershop' --> Verify that the promotional banner is showcasing the latest deals or featured products
+ --> Verify that the promotional banner rotates automatically at a set interval
+Interact with the banner's rotation control buttons --> Verify that the user can pause and navigate to previous or next items in the banner rotation
+^^
+
+

@@ -1,0 +1,14 @@
+>>testDataType: undefined
+>>summary: Verify that the Evershop site's navigation menu remains at the top of the viewport while scrolling through the homepage.
+>>tags: UI, Navigation_Menu, Sticky, Scrolling
+>>feature: Home
+>>feature: Home
+>>priority: 2
+
+
+^^detailed_steps
+Load the homepage of 'Evershop' --> Verify that the navigation menu is present at the top of the viewport
+Scroll down the homepage --> Verify that the navigation menu remains fixed at the top while scrolling
+^^
+
+

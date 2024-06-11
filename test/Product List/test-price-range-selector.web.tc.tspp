@@ -1,0 +1,14 @@
+>>testDataType: undefined
+>>summary: Verify that the price range selector functions correctly and reflects changes in real-time
+>>tags: 
+>>feature: Product List
+
+
+^^detailed_steps
+Navigate to the product display page
+Interact with the price range slider --> Verify that drag handles for minimum and maximum price limits are present
+ --> Verify that dynamic numeric values are displayed above each drag handle indicating the selected range
+ --> Verify that the product listing updates in real-time when the price range is adjusted
+^^
+
+

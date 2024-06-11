@@ -1,0 +1,12 @@
+>>testDataType: undefined
+>>summary: Ensure that the promotional banner rotates automatically and allows user control
+>>tags: 
+>>feature: Home
+
+
+^^detailed_steps
+Navigate to the homepage of 'Evershop' --> Verify that the promotional banner rotates automatically at a set interval
+Interact with the banner's rotation control --> Verify that the user can pause the rotation on a preferred promotion
+^^
+
+

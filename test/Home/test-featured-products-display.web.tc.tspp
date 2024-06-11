@@ -1,0 +1,13 @@
+>>testDataType: undefined
+>>summary: Check that the high-definition image, price, and name of each product are displayed in the Featured Products Section.
+>>tags: 
+>>feature: Home
+
+
+^^detailed_steps
+Navigate to the Featured Products Section on the homepage --> Verify that each product has a high-definition image displayed
+ --> Verify that each product has its price displayed
+ --> Verify that each product has its name displayed
+^^
+
+

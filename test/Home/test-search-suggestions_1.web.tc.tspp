@@ -1,0 +1,13 @@
+>>testDataType: undefined
+>>summary: Check that the search functionality suggests results while the user types in the search bar.
+>>tags: 
+>>feature: Home
+
+
+^^detailed_steps
+Click on the search bar
+Start typing a product name --> Verify that suggested results are displayed in a dropdown
+ --> Verify that each suggestion includes an image, price information, and a short description
+^^
+
+

@@ -1,0 +1,12 @@
+>>testDataType: undefined
+>>summary: Test the system handling for duplicate email during account creation
+>>tags: 
+>>feature: Signup
+
+
+^^detailed_steps
+Fill in the Signup form with valid Full Name, existing Email, and Password
+Click 'SIGN UP' button --> Ensure an error message is displayed indicating the email already exists
+^^
+
+

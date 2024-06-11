@@ -1,0 +1,19 @@
+>>testDataType: undefined
+>>summary: Test signup button behavior with form validation
+>>tags: 
+>>feature: Signup
+
+
+^^detailed_steps
+Load the signup page
+Fill out the Full Name field with valid data
+Fill out the Email field with invalid data
+Attempt to click 'SIGN UP' button --> Verify that the 'SIGN UP' button is inactive
+Correct the Email field with valid data
+Leave the Password field empty
+Attempt to click 'SIGN UP' button --> Verify that the 'SIGN UP' button is inactive
+Fill out the Password field with valid data
+Attempt to click 'SIGN UP' button --> Verify that the 'SIGN UP' button is active and can be clicked
+^^
+
+

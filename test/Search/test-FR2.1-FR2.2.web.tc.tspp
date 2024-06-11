@@ -1,0 +1,13 @@
+>>testDataType: undefined
+>>summary: Test search bar accepts alphanumeric input and provides autocomplete suggestions
+>>tags: 
+>>feature: Search
+
+
+^^detailed_steps
+Click on the search bar
+Type alphanumeric characters into the search bar --> Check if the search bar accepts the input
+ --> Check if autocomplete suggestions appear as the user types
+^^
+
+
